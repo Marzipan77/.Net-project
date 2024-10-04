@@ -1,0 +1,14 @@
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\bin\Debug\net8.0\1. majas darbs.exe
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\bin\Debug\net8.0\1. majas darbs.deps.json
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\bin\Debug\net8.0\1. majas darbs.runtimeconfig.json
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\bin\Debug\net8.0\1. majas darbs.dll
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\bin\Debug\net8.0\1. majas darbs.pdb
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.AssemblyInfoInputs.cache
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.AssemblyInfo.vb
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.vbproj.CoreCompileInputs.cache
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.dll
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\refint\1. majas darbs.dll
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.pdb
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\1. majas darbs.genruntimeconfig.cache
+C:\Users\Mārcis\source\repos\1. majas darbs\1. majas darbs\obj\Debug\net8.0\ref\1. majas darbs.dll
